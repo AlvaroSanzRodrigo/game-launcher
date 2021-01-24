@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="792e6351-2e0b-47e6-9876-0fa62fa2a4e3" name="Default Changelist" comment="added halfmoon for css styling">
-      <change afterPath="$PROJECT_DIR$/assets/img/cursor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/game-1.1s-47px.png" afterDir="false" />
+    <list default="true" id="792e6351-2e0b-47e6-9876-0fa62fa2a4e3" name="Default Changelist" comment="Added some game cards templates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611488518883</updated>
       <workItem from="1611488520163" duration="3903000" />
-      <workItem from="1611494855067" duration="3481000" />
+      <workItem from="1611494855067" duration="4977000" />
     </task>
     <task id="LOCAL-00001" summary="added halfmoon for css styling">
       <created>1611492723549</created>
@@ -92,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611492723550</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added some game cards templates">
+      <created>1611498840241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611498840242</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +119,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="added halfmoon for css styling" />
-    <option name="LAST_COMMIT_MESSAGE" value="added halfmoon for css styling" />
+    <MESSAGE value="Added some game cards templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some game cards templates" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

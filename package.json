@@ -13,5 +13,7 @@
   "devDependencies": {
     "electron": "^11.2.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "spatial-navigation-polyfill": "^1.3.1"
+  }
 }
