@@ -12,5 +12,6 @@
   "description": "An universal game launcher",
   "devDependencies": {
     "electron": "^11.2.1"
-  }
+  },
+  "dependencies": {}
 }

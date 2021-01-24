@@ -4,13 +4,20 @@
     <meta charset="UTF-8">
     <title></title>
     <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <link href="halfmoon-1.1.1/css/halfmoon.min.css" rel="stylesheet" />
 </head>
-<body style="background: white;">
-<h1>Hola mundo!</h1>
-<p>
-    Estamos usando node <script>document.write(process.versions.node)</script>,
-    Chrome <script>document.write(process.versions.chrome)</script>,
-    y Electron <script>document.write(process.versions.electron)</script>.
-</p>
+<body class="container">
+<div class="page-wrapper container">
+    <!-- Content wrapper -->
+    <div class="content-wrapper">
+
+    </div>
+</div>
+
+<script src="halfmoon-1.1.1/js/halfmoon.min.js"></script>
+<script>
+    halfmoon.toggleDarkMode()
+</script>
 </body>
 </html>
