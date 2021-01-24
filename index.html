@@ -7,11 +7,53 @@
     <link href="style.css" type="text/css" rel="stylesheet">
     <link href="halfmoon-1.1.1/css/halfmoon.min.css" rel="stylesheet" />
 </head>
-<body class="container">
-<div class="page-wrapper container">
+<body>
+
+<div class="page-wrapper with-navbar">
+    <nav class="navbar">
+
+        <p class="navbar-brand">
+            <img src="assets/img/game-1.1s-47px.png" alt="logo">
+            Launx
+        </p>
+        <ul class="navbar-nav d-none d-md-flex ml-auto"> <!-- d-none = display: none, d-md-flex = display: flex on medium screens and up (width > 768px) -->
+            <li class="nav-item">
+                <a href="#" class="nav-link">Add game</a>
+            </li>
+        </ul>
+
+    </nav>
+
     <!-- Content wrapper -->
     <div class="content-wrapper">
+        <div class="container p-10">
+            <div class="d-flex flex-wrap">
 
+                    <div class="card p-0 game">
+                        <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2mjs.jpg" class="img-fluid rounded-top" alt="..."> <!-- rounded-top = rounded corners on the top -->
+                        <div class="content m-5">
+                            <h2 class="content-title text-capitalize m-5 text-center">Cyberpunk</h2>
+                            <a href="#" class="btn text-center d-block">Play</a>
+                        </div>
+                    </div>
+
+                    <div class="card p-0 game">
+                        <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2mjs.jpg" class="img-fluid rounded-top" alt="..."> <!-- rounded-top = rounded corners on the top -->
+                        <div class="content m-5">
+                            <h2 class="content-title text-capitalize m-5 text-center">Cyberpunk</h2>
+                            <a href="#" class="btn text-center d-block">Play</a>
+                        </div>
+                    </div>
+
+                    <div class="card p-0 game">
+                        <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2mjs.jpg" class="img-fluid rounded-top" alt="..."> <!-- rounded-top = rounded corners on the top -->
+                        <div class="content m-5">
+                            <h2 class="content-title text-capitalize m-5 text-center">Cyberpunk</h2>
+                            <a href="#" class="btn text-center d-block">Play</a>
+                        </div>
+                    </div>
+            </div>
+        </div>
     </div>
 </div>
 

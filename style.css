@@ -1,0 +1,17 @@
+html{
+    cursor: url("assets/img/cursor.png"), auto;
+}
+
+a:hover{
+    cursor: url("assets/img/cursor.png"), auto;
+}
+
+.game{
+    --box-shadow-color: rgba(0,0,0,.4);
+    box-shadow: 0 .4rem 1.2rem var(--box-shadow-color) !important;
+    transition: all ease-out .2s;
+}
+
+.game:hover{
+    --box-shadow-color: rgba(114, 40, 255, 0.4) !important;
+}

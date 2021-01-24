@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="792e6351-2e0b-47e6-9876-0fa62fa2a4e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/css/halfmoon-variables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/css/halfmoon-variables.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/css/halfmoon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/css/halfmoon.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/js/halfmoon-module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/js/halfmoon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/js/halfmoon.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/halfmoon-1.1.1/starter-template.html" afterDir="false" />
+    <list default="true" id="792e6351-2e0b-47e6-9876-0fa62fa2a4e3" name="Default Changelist" comment="added halfmoon for css styling">
+      <change afterPath="$PROJECT_DIR$/assets/img/cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/game-1.1s-47px.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +53,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -90,12 +82,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611488518883</updated>
-      <workItem from="1611488520163" duration="3601000" />
+      <workItem from="1611488520163" duration="3903000" />
+      <workItem from="1611494855067" duration="3481000" />
     </task>
+    <task id="LOCAL-00001" summary="added halfmoon for css styling">
+      <created>1611492723549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611492723550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="added halfmoon for css styling" />
+    <option name="LAST_COMMIT_MESSAGE" value="added halfmoon for css styling" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
